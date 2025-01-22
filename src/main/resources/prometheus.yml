@@ -1,0 +1,6 @@
+scrape_configs:
+  - job_name: 'spring_batch_job'
+    static_configs:
+      - targets: ['localhost:8090']
+rule_files:
+  - "alert_rules.yml"

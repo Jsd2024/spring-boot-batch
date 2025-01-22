@@ -1,0 +1,11 @@
+groups:
+  - name: BatchJobAlerts
+    rules:
+      - alert: BatchJobFailure
+        expr: batch_job_failures{job="spring_batch_job"} > 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Batch job failure detected"
+          description: "Job {{ $labels.job }} has failures."
