@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "1c2a26b0-7707-40bd-bdd9-020c75f16620",
+		"name": "Spring-Boot-Batch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "8475586"
+	},
+	"item": [
+		{
+			"name": "addCust",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\t\"id\": 21,\r\n        \"name\": \"Jacob\",\r\n        \"email\": \"J@gmail.com\"\r\n        \r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8090/insert/customers"
+			},
+			"response": []
+		},
+		{
+			"name": "spring-batch-job",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8090/invokejob"
+			},
+			"response": []
+		}
+	]
+}

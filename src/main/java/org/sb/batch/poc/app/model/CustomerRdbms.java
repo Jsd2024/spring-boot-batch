@@ -1,12 +1,13 @@
 package org.sb.batch.poc.app.model;
 
-import jakarta.persistence.*;
-//import jakarta.persistence.Table;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 //import javax.persistence.*;
 
@@ -17,12 +18,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Document
-public class Customer {
+//@Document
+public class CustomerRdbms {
     @Id
     @Column(name = "CUSTOMER_ID")
     private int id;
-    @Column(name = "LAST_NAME")
+    @Column(name = "FULL_NAME")
     private String name;
     @Column(name = "EMAIL")
     private String email;

@@ -1,7 +1,9 @@
 package org.sb.batch.poc.app.controller;
 
-import org.sb.batch.poc.app.model.Customer;
-import org.sb.batch.poc.app.repository.CustomerRepository;
+//import org.sb.batch.poc.app.model.CustomerNoSql;
+import org.sb.batch.poc.app.model.CustomerRdbms;
+//import org.sb.batch.poc.app.repository.CustomerNoSqlRepository;
+import org.sb.batch.poc.app.repository.CustomerRdbmsRepository;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobParameters;
 import org.springframework.batch.core.JobParametersBuilder;
@@ -18,8 +20,10 @@ public class JobController {
 
     @Autowired(required = false)
     JobLauncher jobLauncher;
+//    @Autowired
+//    CustomerNoSqlRepository customerNoSqlRepository;
     @Autowired
-    CustomerRepository customerRepository;
+    CustomerRdbmsRepository customerRdbmsRepository;
     @Autowired
     Job processJob;
 
@@ -35,10 +39,19 @@ public class JobController {
 
     }
 
-    @RequestMapping(value = "/insert/customers", method = RequestMethod.POST)
-    public ResponseEntity<List<Customer>> createEmpData(@RequestBody Customer customer) {
-        customerRepository.save(customer);
-        List<Customer> customers = List.of(customer);
+//    @RequestMapping(value = "/insert/customers/noSql", method = RequestMethod.POST)
+//    public ResponseEntity<List<CustomerNoSql>> createEmpDataNoSql
+//            (@RequestBody CustomerNoSql customer) {
+//        customerNoSqlRepository.save(customer);
+//        List<CustomerNoSql> customers = List.of(customer);
+//        return new ResponseEntity<>(customers, HttpStatus.OK);
+//    }
+
+    @RequestMapping(value = "/insert/customers/rdbms", method = RequestMethod.POST)
+    public ResponseEntity<List<CustomerRdbms>> createEmpDataRdbms
+            (@RequestBody CustomerRdbms customer) {
+        customerRdbmsRepository.save(customer);
+        List<CustomerRdbms> customers = List.of(customer);
         return new ResponseEntity<>(customers, HttpStatus.OK);
     }
 }
