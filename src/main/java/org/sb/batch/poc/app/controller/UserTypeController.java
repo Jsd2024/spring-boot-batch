@@ -1,6 +1,5 @@
 package org.sb.batch.poc.app.controller;
 
-//import com.example.demo.enums.UserTypeId;
 import org.sb.batch.poc.app.model.UserTypeId;
 import org.springframework.web.bind.annotation.*;
 
