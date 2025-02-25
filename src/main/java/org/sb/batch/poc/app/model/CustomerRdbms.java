@@ -9,7 +9,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-//import javax.persistence.*;
 
 
 @Entity
@@ -18,7 +17,6 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-//@Document
 public class CustomerRdbms {
     @Id
     @Column(name = "CUSTOMER_ID")
