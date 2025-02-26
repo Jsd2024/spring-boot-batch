@@ -1,0 +1,44 @@
+{
+  "chunkId" : 36,
+  "customers" : [ {
+    "id" : 361,
+    "name" : "Challice",
+    "email" : "echallicea0@storify.com"
+  }, {
+    "id" : 362,
+    "name" : "Calderhead",
+    "email" : "dcalderheada1@acquirethisname.com"
+  }, {
+    "id" : 363,
+    "name" : "Craythorn",
+    "email" : "vcraythorna2@vistaprint.com"
+  }, {
+    "id" : 364,
+    "name" : "Pirouet",
+    "email" : "mpiroueta3@chicagotribune.com"
+  }, {
+    "id" : 365,
+    "name" : "Kinze",
+    "email" : "akinzea4@virginia.edu"
+  }, {
+    "id" : 366,
+    "name" : "Bezants",
+    "email" : "ibezantsa5@mapy.cz"
+  }, {
+    "id" : 367,
+    "name" : "Bolletti",
+    "email" : "sbollettia6@i2i.jp"
+  }, {
+    "id" : 368,
+    "name" : "Lelievre",
+    "email" : "slelievrea7@phoca.cz"
+  }, {
+    "id" : 369,
+    "name" : "Malyon",
+    "email" : "cmalyona8@github.com"
+  }, {
+    "id" : 370,
+    "name" : "Licciardi",
+    "email" : "blicciardia9@arizona.edu"
+  } ]
+}

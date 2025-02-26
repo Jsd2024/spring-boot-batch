@@ -1,0 +1,44 @@
+{
+  "chunkId" : 10,
+  "customers" : [ {
+    "id" : 101,
+    "name" : "Ridesdale",
+    "email" : "mridesdale2s@mit.edu"
+  }, {
+    "id" : 102,
+    "name" : "Pitherick",
+    "email" : "cpitherick2t@weather.com"
+  }, {
+    "id" : 103,
+    "name" : "Slimings",
+    "email" : "sslimings2u@oaic.gov.au"
+  }, {
+    "id" : 104,
+    "name" : "Suarez",
+    "email" : "ssuarez2v@nytimes.com"
+  }, {
+    "id" : 105,
+    "name" : "Louis",
+    "email" : "slouis2w@mediafire.com"
+  }, {
+    "id" : 106,
+    "name" : "Pittam",
+    "email" : "kpittam2x@blogspot.com"
+  }, {
+    "id" : 107,
+    "name" : "Ashmore",
+    "email" : "vashmore2y@xinhuanet.com"
+  }, {
+    "id" : 108,
+    "name" : "Hortop",
+    "email" : "ahortop2z@ifeng.com"
+  }, {
+    "id" : 109,
+    "name" : "Alves",
+    "email" : "balves30@devhub.com"
+  }, {
+    "id" : 110,
+    "name" : "Eliesco",
+    "email" : "leliesco31@foxnews.com"
+  } ]
+}

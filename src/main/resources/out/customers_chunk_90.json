@@ -1,0 +1,44 @@
+{
+  "chunkId" : 90,
+  "customers" : [ {
+    "id" : 901,
+    "name" : "Steffans",
+    "email" : "bsteffansp0@narod.ru"
+  }, {
+    "id" : 902,
+    "name" : "Attiwill",
+    "email" : "hattiwillp1@timesonline.co.uk"
+  }, {
+    "id" : 903,
+    "name" : "Walesa",
+    "email" : "swalesap2@abc.net.au"
+  }, {
+    "id" : 904,
+    "name" : "Kasting",
+    "email" : "bkastingp3@over-blog.com"
+  }, {
+    "id" : 905,
+    "name" : "Bowller",
+    "email" : "sbowllerp4@rediff.com"
+  }, {
+    "id" : 906,
+    "name" : "Gomez",
+    "email" : "jgomezp5@alexa.com"
+  }, {
+    "id" : 907,
+    "name" : "Joicey",
+    "email" : "jjoiceyp6@mail.ru"
+  }, {
+    "id" : 908,
+    "name" : "Stoaks",
+    "email" : "lstoaksp7@state.tx.us"
+  }, {
+    "id" : 909,
+    "name" : "Torrijos",
+    "email" : "mtorrijosp8@jalbum.net"
+  }, {
+    "id" : 910,
+    "name" : "Ferencz",
+    "email" : "rferenczp9@mayoclinic.com"
+  } ]
+}

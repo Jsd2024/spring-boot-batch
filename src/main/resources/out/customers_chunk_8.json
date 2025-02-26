@@ -1,0 +1,44 @@
+{
+  "chunkId" : 8,
+  "customers" : [ {
+    "id" : 81,
+    "name" : "Longstaff",
+    "email" : "mlongstaff28@webs.com"
+  }, {
+    "id" : 82,
+    "name" : "Crosland",
+    "email" : "ecrosland29@cloudflare.com"
+  }, {
+    "id" : 83,
+    "name" : "Weond",
+    "email" : "jweond2a@google.ru"
+  }, {
+    "id" : 84,
+    "name" : "Butt Gow",
+    "email" : "gbuttgow2b@360.cn"
+  }, {
+    "id" : 85,
+    "name" : "Loyley",
+    "email" : "aloyley2c@free.fr"
+  }, {
+    "id" : 86,
+    "name" : "Furtado",
+    "email" : "sfurtado2d@jiathis.com"
+  }, {
+    "id" : 87,
+    "name" : "Linn",
+    "email" : "hlinn2e@redcross.org"
+  }, {
+    "id" : 88,
+    "name" : "Blacksell",
+    "email" : "rblacksell2f@usgs.gov"
+  }, {
+    "id" : 89,
+    "name" : "Scrinage",
+    "email" : "rscrinage2g@statcounter.com"
+  }, {
+    "id" : 90,
+    "name" : "Kleynen",
+    "email" : "kkleynen2h@unicef.org"
+  } ]
+}

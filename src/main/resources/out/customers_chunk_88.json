@@ -1,0 +1,44 @@
+{
+  "chunkId" : 88,
+  "customers" : [ {
+    "id" : 881,
+    "name" : "Ahren",
+    "email" : "gahrenog@toplist.cz"
+  }, {
+    "id" : 882,
+    "name" : "Burnhard",
+    "email" : "fburnhardoh@census.gov"
+  }, {
+    "id" : 883,
+    "name" : "De Bruijn",
+    "email" : "sdebruijnoi@xrea.com"
+  }, {
+    "id" : 884,
+    "name" : "Corris",
+    "email" : "ocorrisoj@bizjournals.com"
+  }, {
+    "id" : 885,
+    "name" : "Igoe",
+    "email" : "aigoeok@deviantart.com"
+  }, {
+    "id" : 886,
+    "name" : "Matzkaitis",
+    "email" : "cmatzkaitisol@wordpress.com"
+  }, {
+    "id" : 887,
+    "name" : "Withrop",
+    "email" : "swithropom@fotki.com"
+  }, {
+    "id" : 888,
+    "name" : "Olerenshaw",
+    "email" : "nolerenshawon@tmall.com"
+  }, {
+    "id" : 889,
+    "name" : "Guiraud",
+    "email" : "tguiraudoo@4shared.com"
+  }, {
+    "id" : 890,
+    "name" : "Cordova",
+    "email" : "scordovaop@ebay.co.uk"
+  } ]
+}

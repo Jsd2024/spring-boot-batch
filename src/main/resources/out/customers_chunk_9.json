@@ -1,0 +1,44 @@
+{
+  "chunkId" : 9,
+  "customers" : [ {
+    "id" : 91,
+    "name" : "Frisel",
+    "email" : "dfrisel2i@e-recht24.de"
+  }, {
+    "id" : 92,
+    "name" : "Chaff",
+    "email" : "jchaff2j@youtu.be"
+  }, {
+    "id" : 93,
+    "name" : "Eakly",
+    "email" : "geakly2k@squidoo.com"
+  }, {
+    "id" : 94,
+    "name" : "Snoddy",
+    "email" : "esnoddy2l@blogger.com"
+  }, {
+    "id" : 95,
+    "name" : "Jarrold",
+    "email" : "djarrold2m@barnesandnoble.com"
+  }, {
+    "id" : 96,
+    "name" : "Frewer",
+    "email" : "efrewer2n@blinklist.com"
+  }, {
+    "id" : 97,
+    "name" : "Manie",
+    "email" : "kmanie2o@geocities.jp"
+  }, {
+    "id" : 98,
+    "name" : "Perell",
+    "email" : "dperell2p@unc.edu"
+  }, {
+    "id" : 99,
+    "name" : "Haigh",
+    "email" : "ghaigh2q@vimeo.com"
+  }, {
+    "id" : 100,
+    "name" : "Worswick",
+    "email" : "oworswick2r@cnet.com"
+  } ]
+}

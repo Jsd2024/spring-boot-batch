@@ -1,0 +1,44 @@
+{
+  "chunkId" : 23,
+  "customers" : [ {
+    "id" : 231,
+    "name" : "Schneider",
+    "email" : "bschneider6e@geocities.com"
+  }, {
+    "id" : 232,
+    "name" : "Tabor",
+    "email" : "ctabor6f@engadget.com"
+  }, {
+    "id" : 233,
+    "name" : "Agate",
+    "email" : "lagate6g@sun.com"
+  }, {
+    "id" : 234,
+    "name" : "Tibbs",
+    "email" : "btibbs6h@weather.com"
+  }, {
+    "id" : 235,
+    "name" : "Backshaw",
+    "email" : "lbackshaw6i@bigcartel.com"
+  }, {
+    "id" : 236,
+    "name" : "Littleover",
+    "email" : "wlittleover6j@ihg.com"
+  }, {
+    "id" : 237,
+    "name" : "Tremmel",
+    "email" : "etremmel6k@skype.com"
+  }, {
+    "id" : 238,
+    "name" : "Veregan",
+    "email" : "overegan6l@howstuffworks.com"
+  }, {
+    "id" : 239,
+    "name" : "Fruchter",
+    "email" : "sfruchter6m@cbslocal.com"
+  }, {
+    "id" : 240,
+    "name" : "Butchard",
+    "email" : "bbutchard6n@reference.com"
+  } ]
+}

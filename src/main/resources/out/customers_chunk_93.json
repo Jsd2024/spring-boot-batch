@@ -1,0 +1,44 @@
+{
+  "chunkId" : 93,
+  "customers" : [ {
+    "id" : 931,
+    "name" : "Goodnow",
+    "email" : "jgoodnowpu@domainmarket.com"
+  }, {
+    "id" : 932,
+    "name" : "Daudray",
+    "email" : "rdaudraypv@about.me"
+  }, {
+    "id" : 933,
+    "name" : "Gault",
+    "email" : "ogaultpw@google.es"
+  }, {
+    "id" : 934,
+    "name" : "Cleland",
+    "email" : "lclelandpx@tinypic.com"
+  }, {
+    "id" : 935,
+    "name" : "Olivet",
+    "email" : "lolivetpy@businesswire.com"
+  }, {
+    "id" : 936,
+    "name" : "Papis",
+    "email" : "cpapispz@yellowbook.com"
+  }, {
+    "id" : 937,
+    "name" : "Few",
+    "email" : "ffewq0@nbcnews.com"
+  }, {
+    "id" : 938,
+    "name" : "Sedge",
+    "email" : "asedgeq1@facebook.com"
+  }, {
+    "id" : 939,
+    "name" : "O'Fallon",
+    "email" : "rofallonq2@wp.com"
+  }, {
+    "id" : 940,
+    "name" : "Battye",
+    "email" : "tbattyeq3@mlb.com"
+  } ]
+}

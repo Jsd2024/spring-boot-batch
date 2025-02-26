@@ -1,0 +1,44 @@
+{
+  "chunkId" : 0,
+  "customers" : [ {
+    "id" : 1,
+    "name" : "Ishak",
+    "email" : "dishak0@alexa.com"
+  }, {
+    "id" : 2,
+    "name" : "Bragg",
+    "email" : "jbragg1@go.com"
+  }, {
+    "id" : 3,
+    "name" : "Gaw",
+    "email" : "sgaw2@mit.edu"
+  }, {
+    "id" : 4,
+    "name" : "De Biasi",
+    "email" : "bdebiasi3@ucla.edu"
+  }, {
+    "id" : 5,
+    "name" : "Filov",
+    "email" : "bfilov4@engadget.com"
+  }, {
+    "id" : 6,
+    "name" : "Douberday",
+    "email" : "wdouberday5@mozilla.org"
+  }, {
+    "id" : 7,
+    "name" : "Northridge",
+    "email" : "mnorthridge6@newsvine.com"
+  }, {
+    "id" : 8,
+    "name" : "Whittle",
+    "email" : "hwhittle7@free.fr"
+  }, {
+    "id" : 9,
+    "name" : "Semour",
+    "email" : "ssemour8@live.com"
+  }, {
+    "id" : 10,
+    "name" : "Orridge",
+    "email" : "borridge9@exblog.jp"
+  } ]
+}

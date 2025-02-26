@@ -1,0 +1,44 @@
+{
+  "chunkId" : 91,
+  "customers" : [ {
+    "id" : 911,
+    "name" : "Croxall",
+    "email" : "rcroxallpa@ucoz.ru"
+  }, {
+    "id" : 912,
+    "name" : "Peschka",
+    "email" : "jpeschkapb@vk.com"
+  }, {
+    "id" : 913,
+    "name" : "Bickerstasse",
+    "email" : "ebickerstassepc@aboutads.info"
+  }, {
+    "id" : 914,
+    "name" : "Vivash",
+    "email" : "jvivashpd@typepad.com"
+  }, {
+    "id" : 915,
+    "name" : "Semper",
+    "email" : "hsemperpe@opera.com"
+  }, {
+    "id" : 916,
+    "name" : "Dearlove",
+    "email" : "bdearlovepf@marketwatch.com"
+  }, {
+    "id" : 917,
+    "name" : "Cavanaugh",
+    "email" : "dcavanaughpg@discovery.com"
+  }, {
+    "id" : 918,
+    "name" : "Talbot",
+    "email" : "ctalbotph@narod.ru"
+  }, {
+    "id" : 919,
+    "name" : "Skewes",
+    "email" : "eskewespi@twitpic.com"
+  }, {
+    "id" : 920,
+    "name" : "Book",
+    "email" : "lbookpj@studiopress.com"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "chunkId" : 86,
+  "customers" : [ {
+    "id" : 861,
+    "name" : "Ivanisov",
+    "email" : "sivanisovnw@ow.ly"
+  }, {
+    "id" : 862,
+    "name" : "Lanigan",
+    "email" : "wlanigannx@uiuc.edu"
+  }, {
+    "id" : 863,
+    "name" : "Vallerine",
+    "email" : "dvallerineny@ihg.com"
+  }, {
+    "id" : 864,
+    "name" : "Thrift",
+    "email" : "mthriftnz@pcworld.com"
+  }, {
+    "id" : 865,
+    "name" : "Scullion",
+    "email" : "ksculliono0@ucsd.edu"
+  }, {
+    "id" : 866,
+    "name" : "Deener",
+    "email" : "bdeenero1@naver.com"
+  }, {
+    "id" : 867,
+    "name" : "Leason",
+    "email" : "mleasono2@nba.com"
+  }, {
+    "id" : 868,
+    "name" : "Ivanonko",
+    "email" : "livanonkoo3@de.vu"
+  }, {
+    "id" : 869,
+    "name" : "Hullbrook",
+    "email" : "rhullbrooko4@spiegel.de"
+  }, {
+    "id" : 870,
+    "name" : "Tytcomb",
+    "email" : "jtytcombo5@ebay.com"
+  } ]
+}

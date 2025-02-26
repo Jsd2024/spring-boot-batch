@@ -1,0 +1,44 @@
+{
+  "chunkId" : 25,
+  "customers" : [ {
+    "id" : 251,
+    "name" : "Durnan",
+    "email" : "cdurnan6y@imgur.com"
+  }, {
+    "id" : 252,
+    "name" : "Albrooke",
+    "email" : "balbrooke6z@printfriendly.com"
+  }, {
+    "id" : 253,
+    "name" : "Tuckie",
+    "email" : "ftuckie70@marketwatch.com"
+  }, {
+    "id" : 254,
+    "name" : "Purveys",
+    "email" : "apurveys71@hexun.com"
+  }, {
+    "id" : 255,
+    "name" : "Pippin",
+    "email" : "gpippin72@surveymonkey.com"
+  }, {
+    "id" : 256,
+    "name" : "Malicki",
+    "email" : "cmalicki73@google.pl"
+  }, {
+    "id" : 257,
+    "name" : "Traill",
+    "email" : "rtraill74@unicef.org"
+  }, {
+    "id" : 258,
+    "name" : "Abbs",
+    "email" : "labbs75@rediff.com"
+  }, {
+    "id" : 259,
+    "name" : "Brugger",
+    "email" : "wbrugger76@fotki.com"
+  }, {
+    "id" : 260,
+    "name" : "Trazzi",
+    "email" : "etrazzi77@huffingtonpost.com"
+  } ]
+}

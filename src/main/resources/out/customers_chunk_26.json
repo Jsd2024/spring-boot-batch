@@ -1,0 +1,44 @@
+{
+  "chunkId" : 26,
+  "customers" : [ {
+    "id" : 261,
+    "name" : "Kobierski",
+    "email" : "ckobierski78@omniture.com"
+  }, {
+    "id" : 262,
+    "name" : "Ridett",
+    "email" : "pridett79@theguardian.com"
+  }, {
+    "id" : 263,
+    "name" : "Ganter",
+    "email" : "rganter7a@chronoengine.com"
+  }, {
+    "id" : 264,
+    "name" : "Bardnam",
+    "email" : "cbardnam7b@devhub.com"
+  }, {
+    "id" : 265,
+    "name" : "Onn",
+    "email" : "monn7c@baidu.com"
+  }, {
+    "id" : 266,
+    "name" : "Bulluck",
+    "email" : "kbulluck7d@photobucket.com"
+  }, {
+    "id" : 267,
+    "name" : "Ather",
+    "email" : "kather7e@nature.com"
+  }, {
+    "id" : 268,
+    "name" : "Jessup",
+    "email" : "hjessup7f@technorati.com"
+  }, {
+    "id" : 269,
+    "name" : "Tomsett",
+    "email" : "ktomsett7g@amazon.com"
+  }, {
+    "id" : 270,
+    "name" : "Huie",
+    "email" : "ahuie7h@list-manage.com"
+  } ]
+}

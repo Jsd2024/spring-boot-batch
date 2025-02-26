@@ -1,0 +1,44 @@
+{
+  "chunkId" : 33,
+  "customers" : [ {
+    "id" : 331,
+    "name" : "Hryncewicz",
+    "email" : "chryncewicz96@mit.edu"
+  }, {
+    "id" : 332,
+    "name" : "Malthus",
+    "email" : "amalthus97@samsung.com"
+  }, {
+    "id" : 333,
+    "name" : "Balding",
+    "email" : "rbalding98@ibm.com"
+  }, {
+    "id" : 334,
+    "name" : "Buckoke",
+    "email" : "sbuckoke99@stanford.edu"
+  }, {
+    "id" : 335,
+    "name" : "Rentz",
+    "email" : "lrentz9a@123-reg.co.uk"
+  }, {
+    "id" : 336,
+    "name" : "Iacomini",
+    "email" : "giacomini9b@spotify.com"
+  }, {
+    "id" : 337,
+    "name" : "Bellany",
+    "email" : "jbellany9c@nih.gov"
+  }, {
+    "id" : 338,
+    "name" : "Edlyne",
+    "email" : "medlyne9d@eepurl.com"
+  }, {
+    "id" : 339,
+    "name" : "Plewes",
+    "email" : "wplewes9e@naver.com"
+  }, {
+    "id" : 340,
+    "name" : "Bateman",
+    "email" : "wbateman9f@tripadvisor.com"
+  } ]
+}

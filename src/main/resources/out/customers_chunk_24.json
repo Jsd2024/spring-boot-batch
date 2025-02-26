@@ -1,0 +1,44 @@
+{
+  "chunkId" : 24,
+  "customers" : [ {
+    "id" : 241,
+    "name" : "Peers",
+    "email" : "mpeers6o@hostgator.com"
+  }, {
+    "id" : 242,
+    "name" : "Lippi",
+    "email" : "dlippi6p@devhub.com"
+  }, {
+    "id" : 243,
+    "name" : "Fleckness",
+    "email" : "jfleckness6q@artisteer.com"
+  }, {
+    "id" : 244,
+    "name" : "Kemster",
+    "email" : "akemster6r@pen.io"
+  }, {
+    "id" : 245,
+    "name" : "McIlwraith",
+    "email" : "omcilwraith6s@cyberchimps.com"
+  }, {
+    "id" : 246,
+    "name" : "Greenhaugh",
+    "email" : "mgreenhaugh6t@mozilla.com"
+  }, {
+    "id" : 247,
+    "name" : "O'Lahy",
+    "email" : "holahy6u@cbslocal.com"
+  }, {
+    "id" : 248,
+    "name" : "Bascombe",
+    "email" : "cbascombe6v@tinyurl.com"
+  }, {
+    "id" : 249,
+    "name" : "Hallowes",
+    "email" : "challowes6w@shareasale.com"
+  }, {
+    "id" : 250,
+    "name" : "Greser",
+    "email" : "ggreser6x@reference.com"
+  } ]
+}

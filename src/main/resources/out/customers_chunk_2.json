@@ -1,0 +1,44 @@
+{
+  "chunkId" : 2,
+  "customers" : [ {
+    "id" : 21,
+    "name" : "Rewan",
+    "email" : "frewank@msu.edu"
+  }, {
+    "id" : 22,
+    "name" : "Oakes",
+    "email" : "woakesl@illinois.edu"
+  }, {
+    "id" : 23,
+    "name" : "O' Timony",
+    "email" : "aotimonym@gov.uk"
+  }, {
+    "id" : 24,
+    "name" : "Dyers",
+    "email" : "cdyersn@wikimedia.org"
+  }, {
+    "id" : 25,
+    "name" : "Picknett",
+    "email" : "rpicknetto@sitemeter.com"
+  }, {
+    "id" : 26,
+    "name" : "Welbelove",
+    "email" : "lwelbelovep@wikipedia.org"
+  }, {
+    "id" : 27,
+    "name" : "Fleischer",
+    "email" : "cfleischerq@earthlink.net"
+  }, {
+    "id" : 28,
+    "name" : "Hamm",
+    "email" : "whammr@virginia.edu"
+  }, {
+    "id" : 29,
+    "name" : "Thring",
+    "email" : "cthrings@cpanel.net"
+  }, {
+    "id" : 30,
+    "name" : "Skipsey",
+    "email" : "lskipseyt@oaic.gov.au"
+  } ]
+}

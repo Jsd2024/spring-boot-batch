@@ -1,0 +1,44 @@
+{
+  "chunkId" : 76,
+  "customers" : [ {
+    "id" : 761,
+    "name" : "Rigglesford",
+    "email" : "crigglesfordl4@diigo.com"
+  }, {
+    "id" : 762,
+    "name" : "Crocker",
+    "email" : "lcrockerl5@infoseek.co.jp"
+  }, {
+    "id" : 763,
+    "name" : "Duberry",
+    "email" : "cduberryl6@cbc.ca"
+  }, {
+    "id" : 764,
+    "name" : "Donn",
+    "email" : "tdonnl7@kickstarter.com"
+  }, {
+    "id" : 765,
+    "name" : "Bleakley",
+    "email" : "fbleakleyl8@telegraph.co.uk"
+  }, {
+    "id" : 766,
+    "name" : "Angove",
+    "email" : "fangovel9@fda.gov"
+  }, {
+    "id" : 767,
+    "name" : "Bowe",
+    "email" : "abowela@ning.com"
+  }, {
+    "id" : 768,
+    "name" : "Guly",
+    "email" : "mgulylb@trellian.com"
+  }, {
+    "id" : 769,
+    "name" : "Hilling",
+    "email" : "mhillinglc@pagesperso-orange.fr"
+  }, {
+    "id" : 770,
+    "name" : "Frostdicke",
+    "email" : "pfrostdickeld@ucoz.com"
+  } ]
+}

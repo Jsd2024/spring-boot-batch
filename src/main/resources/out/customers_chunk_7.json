@@ -1,0 +1,44 @@
+{
+  "chunkId" : 7,
+  "customers" : [ {
+    "id" : 71,
+    "name" : "Hacquoil",
+    "email" : "ahacquoil1y@rambler.ru"
+  }, {
+    "id" : 72,
+    "name" : "Gallager",
+    "email" : "cgallager1z@bbc.co.uk"
+  }, {
+    "id" : 73,
+    "name" : "Kares",
+    "email" : "ekares20@unc.edu"
+  }, {
+    "id" : 74,
+    "name" : "Coom",
+    "email" : "ucoom21@symantec.com"
+  }, {
+    "id" : 75,
+    "name" : "Ruggiero",
+    "email" : "aruggiero22@phpbb.com"
+  }, {
+    "id" : 76,
+    "name" : "Kindall",
+    "email" : "rkindall23@elpais.com"
+  }, {
+    "id" : 77,
+    "name" : "Farrear",
+    "email" : "rfarrear24@symantec.com"
+  }, {
+    "id" : 78,
+    "name" : "Dillow",
+    "email" : "ndillow25@techcrunch.com"
+  }, {
+    "id" : 79,
+    "name" : "Brydie",
+    "email" : "jbrydie26@people.com.cn"
+  }, {
+    "id" : 80,
+    "name" : "Defries",
+    "email" : "adefries27@noaa.gov"
+  } ]
+}

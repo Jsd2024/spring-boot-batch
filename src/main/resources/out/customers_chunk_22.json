@@ -1,0 +1,44 @@
+{
+  "chunkId" : 22,
+  "customers" : [ {
+    "id" : 221,
+    "name" : "Eltringham",
+    "email" : "leltringham64@icq.com"
+  }, {
+    "id" : 222,
+    "name" : "Skpsey",
+    "email" : "gskpsey65@hao123.com"
+  }, {
+    "id" : 223,
+    "name" : "Sandaver",
+    "email" : "bsandaver66@clickbank.net"
+  }, {
+    "id" : 224,
+    "name" : "Gisburn",
+    "email" : "jgisburn67@google.com.au"
+  }, {
+    "id" : 225,
+    "name" : "Lewisham",
+    "email" : "klewisham68@bbb.org"
+  }, {
+    "id" : 226,
+    "name" : "Deller",
+    "email" : "ideller69@fotki.com"
+  }, {
+    "id" : 227,
+    "name" : "Hackwell",
+    "email" : "shackwell6a@chron.com"
+  }, {
+    "id" : 228,
+    "name" : "Toft",
+    "email" : "rtoft6b@redcross.org"
+  }, {
+    "id" : 229,
+    "name" : "Lowson",
+    "email" : "klowson6c@nature.com"
+  }, {
+    "id" : 230,
+    "name" : "Josifovitz",
+    "email" : "ljosifovitz6d@skyrock.com"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "chunkId" : 78,
+  "customers" : [ {
+    "id" : 781,
+    "name" : "Caldera",
+    "email" : "mcalderalo@51.la"
+  }, {
+    "id" : 782,
+    "name" : "Chaffyn",
+    "email" : "schaffynlp@ucoz.com"
+  }, {
+    "id" : 783,
+    "name" : "Bettesworth",
+    "email" : "zbettesworthlq@digg.com"
+  }, {
+    "id" : 784,
+    "name" : "Gillard",
+    "email" : "sgillardlr@clickbank.net"
+  }, {
+    "id" : 785,
+    "name" : "Shale",
+    "email" : "rshalels@ifeng.com"
+  }, {
+    "id" : 786,
+    "name" : "Ewell",
+    "email" : "lewelllt@wix.com"
+  }, {
+    "id" : 787,
+    "name" : "Whitmell",
+    "email" : "kwhitmelllu@amazonaws.com"
+  }, {
+    "id" : 788,
+    "name" : "Bennit",
+    "email" : "dbennitlv@woothemes.com"
+  }, {
+    "id" : 789,
+    "name" : "Zoellner",
+    "email" : "gzoellnerlw@pen.io"
+  }, {
+    "id" : 790,
+    "name" : "Burney",
+    "email" : "dburneylx@howstuffworks.com"
+  } ]
+}

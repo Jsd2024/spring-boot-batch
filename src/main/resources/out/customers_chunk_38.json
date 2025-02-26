@@ -1,0 +1,44 @@
+{
+  "chunkId" : 38,
+  "customers" : [ {
+    "id" : 381,
+    "name" : "Rakes",
+    "email" : "wrakesak@blinklist.com"
+  }, {
+    "id" : 382,
+    "name" : "Bisco",
+    "email" : "gbiscoal@ucoz.com"
+  }, {
+    "id" : 383,
+    "name" : "Meaney",
+    "email" : "jmeaneyam@themeforest.net"
+  }, {
+    "id" : 384,
+    "name" : "Fernihough",
+    "email" : "mfernihoughan@multiply.com"
+  }, {
+    "id" : 385,
+    "name" : "Bonehill",
+    "email" : "tbonehillao@hp.com"
+  }, {
+    "id" : 386,
+    "name" : "Sturney",
+    "email" : "hsturneyap@house.gov"
+  }, {
+    "id" : 387,
+    "name" : "Slad",
+    "email" : "rsladaq@chicagotribune.com"
+  }, {
+    "id" : 388,
+    "name" : "Persent",
+    "email" : "apersentar@hibu.com"
+  }, {
+    "id" : 389,
+    "name" : "Godridge",
+    "email" : "lgodridgeas@hc360.com"
+  }, {
+    "id" : 390,
+    "name" : "Cammocke",
+    "email" : "rcammockeat@imgur.com"
+  } ]
+}

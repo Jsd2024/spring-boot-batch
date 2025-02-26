@@ -1,0 +1,44 @@
+{
+  "chunkId" : 58,
+  "customers" : [ {
+    "id" : 581,
+    "name" : "Pascall",
+    "email" : "rpascallg4@storify.com"
+  }, {
+    "id" : 582,
+    "name" : "Le Barr",
+    "email" : "slebarrg5@microsoft.com"
+  }, {
+    "id" : 583,
+    "name" : "Spadaro",
+    "email" : "rspadarog6@pen.io"
+  }, {
+    "id" : 584,
+    "name" : "Shawell",
+    "email" : "dshawellg7@fc2.com"
+  }, {
+    "id" : 585,
+    "name" : "Rosenthal",
+    "email" : "drosenthalg8@hc360.com"
+  }, {
+    "id" : 586,
+    "name" : "Bleackley",
+    "email" : "mbleackleyg9@bing.com"
+  }, {
+    "id" : 587,
+    "name" : "Kliemchen",
+    "email" : "skliemchenga@adobe.com"
+  }, {
+    "id" : 588,
+    "name" : "Eim",
+    "email" : "aeimgb@tripod.com"
+  }, {
+    "id" : 589,
+    "name" : "Platt",
+    "email" : "lplattgc@alexa.com"
+  }, {
+    "id" : 590,
+    "name" : "Streets",
+    "email" : "lstreetsgd@ovh.net"
+  } ]
+}

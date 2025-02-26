@@ -1,0 +1,44 @@
+{
+  "chunkId" : 18,
+  "customers" : [ {
+    "id" : 181,
+    "name" : "Robbey",
+    "email" : "brobbey50@scribd.com"
+  }, {
+    "id" : 182,
+    "name" : "Ishaki",
+    "email" : "sishaki51@virginia.edu"
+  }, {
+    "id" : 183,
+    "name" : "Braunfeld",
+    "email" : "kbraunfeld52@bbb.org"
+  }, {
+    "id" : 184,
+    "name" : "Aartsen",
+    "email" : "raartsen53@accuweather.com"
+  }, {
+    "id" : 185,
+    "name" : "Asple",
+    "email" : "tasple54@gmpg.org"
+  }, {
+    "id" : 186,
+    "name" : "Hazeup",
+    "email" : "rhazeup55@mail.ru"
+  }, {
+    "id" : 187,
+    "name" : "Veevers",
+    "email" : "mveevers56@homestead.com"
+  }, {
+    "id" : 188,
+    "name" : "Costi",
+    "email" : "ecosti57@timesonline.co.uk"
+  }, {
+    "id" : 189,
+    "name" : "Stadden",
+    "email" : "pstadden58@java.com"
+  }, {
+    "id" : 190,
+    "name" : "Alcock",
+    "email" : "salcock59@flavors.me"
+  } ]
+}

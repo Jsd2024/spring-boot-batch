@@ -1,0 +1,44 @@
+{
+  "chunkId" : 43,
+  "customers" : [ {
+    "id" : 431,
+    "name" : "Hoodless",
+    "email" : "ahoodlessby@spiegel.de"
+  }, {
+    "id" : 432,
+    "name" : "Liddle",
+    "email" : "jliddlebz@adobe.com"
+  }, {
+    "id" : 433,
+    "name" : "Randalson",
+    "email" : "crandalsonc0@bandcamp.com"
+  }, {
+    "id" : 434,
+    "name" : "Cello",
+    "email" : "pcelloc1@oaic.gov.au"
+  }, {
+    "id" : 435,
+    "name" : "Stansbie",
+    "email" : "cstansbiec2@nih.gov"
+  }, {
+    "id" : 436,
+    "name" : "Gregoletti",
+    "email" : "wgregolettic3@webs.com"
+  }, {
+    "id" : 437,
+    "name" : "Licence",
+    "email" : "wlicencec4@ask.com"
+  }, {
+    "id" : 438,
+    "name" : "De Winton",
+    "email" : "ldewintonc5@issuu.com"
+  }, {
+    "id" : 439,
+    "name" : "Rodway",
+    "email" : "nrodwayc6@statcounter.com"
+  }, {
+    "id" : 440,
+    "name" : "Woodrow",
+    "email" : "kwoodrowc7@ox.ac.uk"
+  } ]
+}

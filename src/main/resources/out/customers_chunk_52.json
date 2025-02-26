@@ -1,0 +1,44 @@
+{
+  "chunkId" : 52,
+  "customers" : [ {
+    "id" : 521,
+    "name" : "Svanini",
+    "email" : "ssvaninieg@mapy.cz"
+  }, {
+    "id" : 522,
+    "name" : "Cescot",
+    "email" : "scescoteh@t.co"
+  }, {
+    "id" : 523,
+    "name" : "Wildish",
+    "email" : "jwildishei@purevolume.com"
+  }, {
+    "id" : 524,
+    "name" : "Ellerman",
+    "email" : "bellermanej@ameblo.jp"
+  }, {
+    "id" : 525,
+    "name" : "Davidoff",
+    "email" : "rdavidoffek@psu.edu"
+  }, {
+    "id" : 526,
+    "name" : "Frackiewicz",
+    "email" : "jfrackiewiczel@toplist.cz"
+  }, {
+    "id" : 527,
+    "name" : "Stuckley",
+    "email" : "mstuckleyem@networkadvertising.org"
+  }, {
+    "id" : 528,
+    "name" : "Roskrug",
+    "email" : "sroskrugen@nhs.uk"
+  }, {
+    "id" : 529,
+    "name" : "Loyns",
+    "email" : "jloynseo@people.com.cn"
+  }, {
+    "id" : 530,
+    "name" : "Bau",
+    "email" : "vbauep@si.edu"
+  } ]
+}

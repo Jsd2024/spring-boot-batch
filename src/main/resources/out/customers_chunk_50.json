@@ -1,0 +1,44 @@
+{
+  "chunkId" : 50,
+  "customers" : [ {
+    "id" : 501,
+    "name" : "Ruse",
+    "email" : "trusedw@toplist.cz"
+  }, {
+    "id" : 502,
+    "name" : "Fliege",
+    "email" : "efliegedx@unicef.org"
+  }, {
+    "id" : 503,
+    "name" : "Tassaker",
+    "email" : "vtassakerdy@admin.ch"
+  }, {
+    "id" : 504,
+    "name" : "Hedger",
+    "email" : "ahedgerdz@engadget.com"
+  }, {
+    "id" : 505,
+    "name" : "Casine",
+    "email" : "hcasinee0@aboutads.info"
+  }, {
+    "id" : 506,
+    "name" : "Dungee",
+    "email" : "gdungeee1@si.edu"
+  }, {
+    "id" : 507,
+    "name" : "Rawdall",
+    "email" : "brawdalle2@auda.org.au"
+  }, {
+    "id" : 508,
+    "name" : "Olliar",
+    "email" : "lolliare3@disqus.com"
+  }, {
+    "id" : 509,
+    "name" : "Reen",
+    "email" : "hreene4@japanpost.jp"
+  }, {
+    "id" : 510,
+    "name" : "Chazerand",
+    "email" : "bchazerande5@indiegogo.com"
+  } ]
+}

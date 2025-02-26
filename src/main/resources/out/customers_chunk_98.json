@@ -1,0 +1,44 @@
+{
+  "chunkId" : 98,
+  "customers" : [ {
+    "id" : 981,
+    "name" : "Johncey",
+    "email" : "ojohnceyr8@networkadvertising.org"
+  }, {
+    "id" : 982,
+    "name" : "Drakeford",
+    "email" : "tdrakefordr9@ox.ac.uk"
+  }, {
+    "id" : 983,
+    "name" : "Pieracci",
+    "email" : "qpieraccira@reuters.com"
+  }, {
+    "id" : 984,
+    "name" : "Casbon",
+    "email" : "ecasbonrb@vinaora.com"
+  }, {
+    "id" : 985,
+    "name" : "Bourthouloume",
+    "email" : "mbourthouloumerc@marketwatch.com"
+  }, {
+    "id" : 986,
+    "name" : "Halvosen",
+    "email" : "mhalvosenrd@hhs.gov"
+  }, {
+    "id" : 987,
+    "name" : "Taaffe",
+    "email" : "ataaffere@aboutads.info"
+  }, {
+    "id" : 988,
+    "name" : "Lapworth",
+    "email" : "klapworthrf@amazon.co.uk"
+  }, {
+    "id" : 989,
+    "name" : "Milmoe",
+    "email" : "dmilmoerg@biglobe.ne.jp"
+  }, {
+    "id" : 990,
+    "name" : "Zottoli",
+    "email" : "mzottolirh@state.gov"
+  } ]
+}

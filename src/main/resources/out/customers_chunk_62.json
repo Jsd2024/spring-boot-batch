@@ -1,0 +1,44 @@
+{
+  "chunkId" : 62,
+  "customers" : [ {
+    "id" : 621,
+    "name" : "Lodevick",
+    "email" : "ylodevickh8@spiegel.de"
+  }, {
+    "id" : 622,
+    "name" : "Mandres",
+    "email" : "imandresh9@jalbum.net"
+  }, {
+    "id" : 623,
+    "name" : "Streeter",
+    "email" : "pstreeterha@cisco.com"
+  }, {
+    "id" : 624,
+    "name" : "Danielli",
+    "email" : "tdaniellihb@stanford.edu"
+  }, {
+    "id" : 625,
+    "name" : "Farman",
+    "email" : "wfarmanhc@independent.co.uk"
+  }, {
+    "id" : 626,
+    "name" : "Lacoste",
+    "email" : "blacostehd@nsw.gov.au"
+  }, {
+    "id" : 627,
+    "name" : "Broadbere",
+    "email" : "tbroadberehe@rakuten.co.jp"
+  }, {
+    "id" : 628,
+    "name" : "Donaldson",
+    "email" : "sdonaldsonhf@cargocollective.com"
+  }, {
+    "id" : 629,
+    "name" : "Frankum",
+    "email" : "pfrankumhg@mlb.com"
+  }, {
+    "id" : 630,
+    "name" : "Keeley",
+    "email" : "bkeeleyhh@naver.com"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "chunkId" : 92,
+  "customers" : [ {
+    "id" : 921,
+    "name" : "Stearn",
+    "email" : "jstearnpk@msu.edu"
+  }, {
+    "id" : 922,
+    "name" : "Pleven",
+    "email" : "rplevenpl@stumbleupon.com"
+  }, {
+    "id" : 923,
+    "name" : "Astridge",
+    "email" : "mastridgepm@berkeley.edu"
+  }, {
+    "id" : 924,
+    "name" : "Welbourn",
+    "email" : "cwelbournpn@diigo.com"
+  }, {
+    "id" : 925,
+    "name" : "De Souza",
+    "email" : "gdesouzapo@bloglines.com"
+  }, {
+    "id" : 926,
+    "name" : "Beautyman",
+    "email" : "sbeautymanpp@nydailynews.com"
+  }, {
+    "id" : 927,
+    "name" : "Morit",
+    "email" : "amoritpq@tamu.edu"
+  }, {
+    "id" : 928,
+    "name" : "Hollows",
+    "email" : "ehollowspr@sina.com.cn"
+  }, {
+    "id" : 929,
+    "name" : "Stirling",
+    "email" : "astirlingps@techcrunch.com"
+  }, {
+    "id" : 930,
+    "name" : "Meiningen",
+    "email" : "cmeiningenpt@shareasale.com"
+  } ]
+}

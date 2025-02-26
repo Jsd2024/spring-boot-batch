@@ -1,0 +1,44 @@
+{
+  "chunkId" : 46,
+  "customers" : [ {
+    "id" : 461,
+    "name" : "Linney",
+    "email" : "glinneycs@pinterest.com"
+  }, {
+    "id" : 462,
+    "name" : "Varley",
+    "email" : "cvarleyct@independent.co.uk"
+  }, {
+    "id" : 463,
+    "name" : "Bavage",
+    "email" : "ebavagecu@pbs.org"
+  }, {
+    "id" : 464,
+    "name" : "Naismith",
+    "email" : "cnaismithcv@jalbum.net"
+  }, {
+    "id" : 465,
+    "name" : "Gatecliff",
+    "email" : "ggatecliffcw@blogspot.com"
+  }, {
+    "id" : 466,
+    "name" : "Adamowitz",
+    "email" : "dadamowitzcx@amazon.com"
+  }, {
+    "id" : 467,
+    "name" : "Stit",
+    "email" : "mstitcy@cargocollective.com"
+  }, {
+    "id" : 468,
+    "name" : "Figurski",
+    "email" : "kfigurskicz@google.fr"
+  }, {
+    "id" : 469,
+    "name" : "Annes",
+    "email" : "nannesd0@sciencedaily.com"
+  }, {
+    "id" : 470,
+    "name" : "Gissing",
+    "email" : "agissingd1@xrea.com"
+  } ]
+}

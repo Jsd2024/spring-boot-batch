@@ -1,0 +1,44 @@
+{
+  "chunkId" : 79,
+  "customers" : [ {
+    "id" : 791,
+    "name" : "Mackley",
+    "email" : "bmackleyly@surveymonkey.com"
+  }, {
+    "id" : 792,
+    "name" : "Verbeke",
+    "email" : "hverbekelz@livejournal.com"
+  }, {
+    "id" : 793,
+    "name" : "Sapshed",
+    "email" : "msapshedm0@ed.gov"
+  }, {
+    "id" : 794,
+    "name" : "Fragino",
+    "email" : "bfraginom1@toplist.cz"
+  }, {
+    "id" : 795,
+    "name" : "Winsbury",
+    "email" : "twinsburym2@zimbio.com"
+  }, {
+    "id" : 796,
+    "name" : "Planks",
+    "email" : "eplanksm3@ft.com"
+  }, {
+    "id" : 797,
+    "name" : "Rounding",
+    "email" : "mroundingm4@lulu.com"
+  }, {
+    "id" : 798,
+    "name" : "Renner",
+    "email" : "prennerm5@scribd.com"
+  }, {
+    "id" : 799,
+    "name" : "Matchett",
+    "email" : "cmatchettm6@usda.gov"
+  }, {
+    "id" : 800,
+    "name" : "Ludovico",
+    "email" : "lludovicom7@topsy.com"
+  } ]
+}

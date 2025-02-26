@@ -1,0 +1,44 @@
+{
+  "chunkId" : 68,
+  "customers" : [ {
+    "id" : 681,
+    "name" : "Egan",
+    "email" : "meganiw@seesaa.net"
+  }, {
+    "id" : 682,
+    "name" : "Troop",
+    "email" : "ktroopix@ca.gov"
+  }, {
+    "id" : 683,
+    "name" : "Pankethman",
+    "email" : "mpankethmaniy@jugem.jp"
+  }, {
+    "id" : 684,
+    "name" : "Wipfler",
+    "email" : "fwipfleriz@toplist.cz"
+  }, {
+    "id" : 685,
+    "name" : "Gianilli",
+    "email" : "rgianillij0@washingtonpost.com"
+  }, {
+    "id" : 686,
+    "name" : "Fanner",
+    "email" : "efannerj1@sitemeter.com"
+  }, {
+    "id" : 687,
+    "name" : "Franey",
+    "email" : "cfraneyj2@unc.edu"
+  }, {
+    "id" : 688,
+    "name" : "Collymore",
+    "email" : "ecollymorej3@ca.gov"
+  }, {
+    "id" : 689,
+    "name" : "Fitchett",
+    "email" : "efitchettj4@github.io"
+  }, {
+    "id" : 690,
+    "name" : "Bessey",
+    "email" : "lbesseyj5@w3.org"
+  } ]
+}

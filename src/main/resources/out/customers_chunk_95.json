@@ -1,0 +1,44 @@
+{
+  "chunkId" : 95,
+  "customers" : [ {
+    "id" : 951,
+    "name" : "Horsefield",
+    "email" : "chorsefieldqe@disqus.com"
+  }, {
+    "id" : 952,
+    "name" : "Caffrey",
+    "email" : "wcaffreyqf@dailymotion.com"
+  }, {
+    "id" : 953,
+    "name" : "Cuerdall",
+    "email" : "mcuerdallqg@wordpress.org"
+  }, {
+    "id" : 954,
+    "name" : "O' Sullivan",
+    "email" : "wosullivanqh@buzzfeed.com"
+  }, {
+    "id" : 955,
+    "name" : "Bourton",
+    "email" : "wbourtonqi@goo.gl"
+  }, {
+    "id" : 956,
+    "name" : "Aleksashin",
+    "email" : "baleksashinqj@blinklist.com"
+  }, {
+    "id" : 957,
+    "name" : "Sheering",
+    "email" : "fsheeringqk@hostgator.com"
+  }, {
+    "id" : 958,
+    "name" : "Haslum",
+    "email" : "nhaslumql@amazon.com"
+  }, {
+    "id" : 959,
+    "name" : "Raddin",
+    "email" : "nraddinqm@mtv.com"
+  }, {
+    "id" : 960,
+    "name" : "Birt",
+    "email" : "cbirtqn@amazon.com"
+  } ]
+}

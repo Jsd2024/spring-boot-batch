@@ -1,0 +1,44 @@
+{
+  "chunkId" : 66,
+  "customers" : [ {
+    "id" : 661,
+    "name" : "Creeboe",
+    "email" : "rcreeboeic@paypal.com"
+  }, {
+    "id" : 662,
+    "name" : "Pickering",
+    "email" : "ppickeringid@tripadvisor.com"
+  }, {
+    "id" : 663,
+    "name" : "Severy",
+    "email" : "cseveryie@yellowbook.com"
+  }, {
+    "id" : 664,
+    "name" : "Enos",
+    "email" : "cenosif@tinypic.com"
+  }, {
+    "id" : 665,
+    "name" : "Winskill",
+    "email" : "hwinskillig@archive.org"
+  }, {
+    "id" : 666,
+    "name" : "Paris",
+    "email" : "sparisih@blog.com"
+  }, {
+    "id" : 667,
+    "name" : "Tournie",
+    "email" : "btournieii@webnode.com"
+  }, {
+    "id" : 668,
+    "name" : "Baxstare",
+    "email" : "hbaxstareij@spiegel.de"
+  }, {
+    "id" : 669,
+    "name" : "Biggins",
+    "email" : "dbigginsik@msn.com"
+  }, {
+    "id" : 670,
+    "name" : "Spurdens",
+    "email" : "wspurdensil@reuters.com"
+  } ]
+}

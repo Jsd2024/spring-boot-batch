@@ -1,0 +1,44 @@
+{
+  "chunkId" : 4,
+  "customers" : [ {
+    "id" : 41,
+    "name" : "Kensall",
+    "email" : "akensall14@de.vu"
+  }, {
+    "id" : 42,
+    "name" : "Laba",
+    "email" : "ilaba15@jalbum.net"
+  }, {
+    "id" : 43,
+    "name" : "Babalola",
+    "email" : "gbabalola16@deviantart.com"
+  }, {
+    "id" : 44,
+    "name" : "Hemms",
+    "email" : "yhemms17@phpbb.com"
+  }, {
+    "id" : 45,
+    "name" : "Najara",
+    "email" : "hnajara18@twitpic.com"
+  }, {
+    "id" : 46,
+    "name" : "Portress",
+    "email" : "lportress19@seesaa.net"
+  }, {
+    "id" : 47,
+    "name" : "Goodoune",
+    "email" : "fgoodoune1a@yellowbook.com"
+  }, {
+    "id" : 48,
+    "name" : "Lambarton",
+    "email" : "vlambarton1b@ebay.com"
+  }, {
+    "id" : 49,
+    "name" : "Abrahamsen",
+    "email" : "cabrahamsen1c@deviantart.com"
+  }, {
+    "id" : 50,
+    "name" : "O'Scully",
+    "email" : "coscully1d@samsung.com"
+  } ]
+}

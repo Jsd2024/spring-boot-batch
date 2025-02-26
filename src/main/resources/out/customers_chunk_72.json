@@ -1,0 +1,44 @@
+{
+  "chunkId" : 72,
+  "customers" : [ {
+    "id" : 721,
+    "name" : "Enderby",
+    "email" : "venderbyk0@foxnews.com"
+  }, {
+    "id" : 722,
+    "name" : "Doyland",
+    "email" : "odoylandk1@homestead.com"
+  }, {
+    "id" : 723,
+    "name" : "Spratt",
+    "email" : "asprattk2@time.com"
+  }, {
+    "id" : 724,
+    "name" : "Wodeland",
+    "email" : "awodelandk3@who.int"
+  }, {
+    "id" : 725,
+    "name" : "Pattlel",
+    "email" : "dpattlelk4@craigslist.org"
+  }, {
+    "id" : 726,
+    "name" : "Herreran",
+    "email" : "sherrerank5@guardian.co.uk"
+  }, {
+    "id" : 727,
+    "name" : "Laffling",
+    "email" : "alafflingk6@techcrunch.com"
+  }, {
+    "id" : 728,
+    "name" : "Cissen",
+    "email" : "mcissenk7@google.it"
+  }, {
+    "id" : 729,
+    "name" : "Wibrew",
+    "email" : "swibrewk8@examiner.com"
+  }, {
+    "id" : 730,
+    "name" : "Birney",
+    "email" : "jbirneyk9@tripadvisor.com"
+  } ]
+}

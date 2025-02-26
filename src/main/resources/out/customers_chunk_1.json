@@ -1,0 +1,44 @@
+{
+  "chunkId" : 1,
+  "customers" : [ {
+    "id" : 11,
+    "name" : "Dunnett",
+    "email" : "adunnetta@microsoft.com"
+  }, {
+    "id" : 12,
+    "name" : "Bick",
+    "email" : "abickb@icq.com"
+  }, {
+    "id" : 13,
+    "name" : "Hoodlass",
+    "email" : "thoodlassc@ucsd.edu"
+  }, {
+    "id" : 14,
+    "name" : "Sperrett",
+    "email" : "osperrettd@feedburner.com"
+  }, {
+    "id" : 15,
+    "name" : "Herche",
+    "email" : "kherchee@cbslocal.com"
+  }, {
+    "id" : 16,
+    "name" : "Goldberg",
+    "email" : "agoldbergf@ted.com"
+  }, {
+    "id" : 17,
+    "name" : "Sutheran",
+    "email" : "tsutherang@wired.com"
+  }, {
+    "id" : 18,
+    "name" : "Baggally",
+    "email" : "nbaggallyh@discuz.net"
+  }, {
+    "id" : 19,
+    "name" : "Peetermann",
+    "email" : "mpeetermanni@rambler.ru"
+  }, {
+    "id" : 20,
+    "name" : "Coleyshaw",
+    "email" : "bcoleyshawj@unc.edu"
+  } ]
+}

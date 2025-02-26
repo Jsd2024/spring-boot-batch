@@ -1,0 +1,44 @@
+{
+  "chunkId" : 70,
+  "customers" : [ {
+    "id" : 701,
+    "name" : "Skeats",
+    "email" : "yskeatsjg@sakura.ne.jp"
+  }, {
+    "id" : 702,
+    "name" : "Huggard",
+    "email" : "ahuggardjh@stanford.edu"
+  }, {
+    "id" : 703,
+    "name" : "Mawman",
+    "email" : "bmawmanji@blogtalkradio.com"
+  }, {
+    "id" : 704,
+    "name" : "Nyland",
+    "email" : "anylandjj@ifeng.com"
+  }, {
+    "id" : 705,
+    "name" : "Maciunas",
+    "email" : "gmaciunasjk@mediafire.com"
+  }, {
+    "id" : 706,
+    "name" : "Bazeley",
+    "email" : "gbazeleyjl@auda.org.au"
+  }, {
+    "id" : 707,
+    "name" : "Harly",
+    "email" : "mharlyjm@typepad.com"
+  }, {
+    "id" : 708,
+    "name" : "Strelitzer",
+    "email" : "sstrelitzerjn@people.com.cn"
+  }, {
+    "id" : 709,
+    "name" : "Webburn",
+    "email" : "pwebburnjo@sciencedaily.com"
+  }, {
+    "id" : 710,
+    "name" : "Clemo",
+    "email" : "fclemojp@businesswire.com"
+  } ]
+}

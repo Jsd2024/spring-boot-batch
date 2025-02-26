@@ -1,0 +1,44 @@
+{
+  "chunkId" : 82,
+  "customers" : [ {
+    "id" : 821,
+    "name" : "Sinton",
+    "email" : "lsintonms@amazon.com"
+  }, {
+    "id" : 822,
+    "name" : "Costanza",
+    "email" : "scostanzamt@google.com.au"
+  }, {
+    "id" : 823,
+    "name" : "Kix",
+    "email" : "akixmu@sohu.com"
+  }, {
+    "id" : 824,
+    "name" : "Drowsfield",
+    "email" : "wdrowsfieldmv@opera.com"
+  }, {
+    "id" : 825,
+    "name" : "Jewess",
+    "email" : "mjewessmw@wordpress.com"
+  }, {
+    "id" : 826,
+    "name" : "Skinn",
+    "email" : "oskinnmx@wikipedia.org"
+  }, {
+    "id" : 827,
+    "name" : "Macci",
+    "email" : "omaccimy@360.cn"
+  }, {
+    "id" : 828,
+    "name" : "McErlaine",
+    "email" : "wmcerlainemz@biblegateway.com"
+  }, {
+    "id" : 829,
+    "name" : "O'Towey",
+    "email" : "motoweyn0@jimdo.com"
+  }, {
+    "id" : 830,
+    "name" : "Heindrick",
+    "email" : "hheindrickn1@canalblog.com"
+  } ]
+}

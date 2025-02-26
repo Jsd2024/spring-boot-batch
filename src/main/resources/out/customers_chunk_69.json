@@ -1,0 +1,44 @@
+{
+  "chunkId" : 69,
+  "customers" : [ {
+    "id" : 691,
+    "name" : "Lippini",
+    "email" : "wlippinij6@sphinn.com"
+  }, {
+    "id" : 692,
+    "name" : "Merrington",
+    "email" : "smerringtonj7@dot.gov"
+  }, {
+    "id" : 693,
+    "name" : "Garton",
+    "email" : "ggartonj8@blogspot.com"
+  }, {
+    "id" : 694,
+    "name" : "Shalloe",
+    "email" : "kshalloej9@bbb.org"
+  }, {
+    "id" : 695,
+    "name" : "Peartree",
+    "email" : "vpeartreeja@pagesperso-orange.fr"
+  }, {
+    "id" : 696,
+    "name" : "Bawdon",
+    "email" : "cbawdonjb@soup.io"
+  }, {
+    "id" : 697,
+    "name" : "Liverseege",
+    "email" : "rliverseegejc@tamu.edu"
+  }, {
+    "id" : 698,
+    "name" : "Medlin",
+    "email" : "pmedlinjd@goodreads.com"
+  }, {
+    "id" : 699,
+    "name" : "Tomasello",
+    "email" : "jtomaselloje@indiegogo.com"
+  }, {
+    "id" : 700,
+    "name" : "Waggatt",
+    "email" : "jwaggattjf@clickbank.net"
+  } ]
+}
