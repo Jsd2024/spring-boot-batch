@@ -30,18 +30,8 @@ public class JobController {
 
         JobParameters jobParameters = new JobParametersBuilder()
                 .addLong("startAt", System.currentTimeMillis()).toJobParameters();
-
         jobLauncher.run(processJob, jobParameters);
-
         return "Batch job has been invoked";//{_id: 1}
-
-    }
-    @RequestMapping(value = "/insert/customers/rdbms", method = RequestMethod.POST)
-    public ResponseEntity<List<CustomerRdbms>> createEmpDataRdbms
-            (@RequestBody CustomerRdbms customer) {
-        customerRdbmsRepository.save(customer);
-        List<CustomerRdbms> customers = List.of(customer);
-        return new ResponseEntity<>(customers, HttpStatus.OK);
     }
 
 }

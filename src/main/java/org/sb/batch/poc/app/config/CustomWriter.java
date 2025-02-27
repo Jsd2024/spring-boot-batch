@@ -5,7 +5,6 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import org.sb.batch.poc.app.model.ChunkData;
 import org.sb.batch.poc.app.model.CustomerRdbms;
 import org.sb.batch.poc.app.repository.CustomerRdbmsRepository;
-import org.springframework.batch.item.Chunk;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -25,14 +24,14 @@ public class CustomWriter implements ItemWriter<CustomerRdbms> {
 
 
 	@Override
-	public void write(Chunk<? extends CustomerRdbms> chunkItems) throws Exception {
+	public void write(List<? extends CustomerRdbms> listItems) throws Exception {
 		int chunkId = chunkCounter.getAndIncrement();
 		// Create a JSON file for each chunk
 		File jsonFile = new File("src/main/resources/out/customers_chunk_" + chunkId + ".json");
 
 		// Wrap data with chunkId
 		ChunkData chunkData = new ChunkData(chunkId,
-                new ArrayList<>(chunkItems.getItems()));
+				new ArrayList<>(listItems));
 
 		// Sort items by customerId
 //		List<CustomerRdbms> sortedCustomers = chunkItems.getItems().stream()
@@ -46,8 +45,7 @@ public class CustomWriter implements ItemWriter<CustomerRdbms> {
 
 		System.out.println("Written Chunk: " + chunkId + " to file: " + jsonFile.getAbsolutePath());
 
-		customerRdbmsRepository.saveAll(chunkItems);
-		System.out.println("Completed writing  CustomerRdbms data."+chunkItems);
-
+		customerRdbmsRepository.saveAll(listItems);
+		System.out.println("Completed writing  CustomerRdbms data."+listItems);
 	}
 }
