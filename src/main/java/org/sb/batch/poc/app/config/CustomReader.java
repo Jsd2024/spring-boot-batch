@@ -11,14 +11,14 @@ import org.springframework.core.io.FileSystemResource;
 
 public class CustomReader extends FlatFileItemReader<CustomerRdbms> implements ItemReader<CustomerRdbms> {
 
-	public CustomReader() {
-		setResource(new FileSystemResource("src/main/resources/customers.csv"));
-		setName("csv-reader");
-		setLinesToSkip(1); // Skip header row
-		setLineMapper(lineMapper());
-	}
+    public CustomReader() {
+        setResource(new FileSystemResource("src/main/resources/customers.csv"));
+        setName("csv-reader");
+        setLinesToSkip(1); // Skip header row
+        setLineMapper(lineMapper());
+    }
 
-	private LineMapper<CustomerRdbms> lineMapper() {
+    private LineMapper<CustomerRdbms> lineMapper() {
         DefaultLineMapper<CustomerRdbms> lineMapper = new DefaultLineMapper<>();
 
         DelimitedLineTokenizer tokenizer = new DelimitedLineTokenizer();
