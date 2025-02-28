@@ -20,7 +20,25 @@
 						}
 					}
 				},
-				"url": "http://localhost:8090/insert/customers"
+				"url": "http://localhost:8081/insert/customers/rdbms"
+			},
+			"response": []
+		},
+		{
+			"name": "json",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\t\"id\": 21,\r\n        \"name\": \"Jacob\",\r\n        \"email\": \"J@gmail.com\"\r\n        \r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8081/insert/customers/rdbms"
 			},
 			"response": []
 		},
@@ -30,6 +48,44 @@
 				"method": "GET",
 				"header": [],
 				"url": "http://localhost:8090/invokejob"
+			},
+			"response": []
+		},
+		{
+			"name": "Swagger",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/LENOVO/OneDrive/Pictures/133743906867618968.jpg"
+						}
+					]
+				},
+				"url": "http://localhost:8091/files/upload"
+			},
+			"response": []
+		},
+		{
+			"name": "ENUM",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8090/api/usertype/str/ADMIN"
 			},
 			"response": []
 		}

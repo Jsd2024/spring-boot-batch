@@ -1109,3 +1109,28 @@ Hibernate: insert into customers_info (email,full_name,customer_id) values (?,?,
 6) Output: ![img_2.png](img_2.png)
 7) Postmn collection: uploaded[C:\Users\LENOVO\IdeaProjects\spring-boot-batch\src\main\resources\[Spring-Boot-Batch.postman_collection.json](src%2Fmain%2Fresources%2FSpring-Boot-Batch.postman_collection.json)]
 8) All Mongo related things kept as backup & new things added for MsSqlServer
+9) model	dbo	BATCH_JOB_INSTANCE	BASE TABLE
+   model	dbo	BATCH_JOB_EXECUTION	BASE TABLE
+   model	dbo	BATCH_JOB_EXECUTION_PARAMS	BASE TABLE
+   model	dbo	BATCH_STEP_EXECUTION	BASE TABLE
+   model	dbo	BATCH_STEP_EXECUTION_CONTEXT	BASE TABLE
+   model	dbo	BATCH_JOB_EXECUTION_CONTEXT	BASE TABLE
+   model	dbo	BATCH_STEP_EXECUTION_SEQ	BASE TABLE
+   model	dbo	BATCH_JOB_EXECUTION_SEQ	BASE TABLE
+   model	dbo	BATCH_JOB_SEQ	BASE TABLE
+   model	dbo	customer_info	BASE TABLE 
+All these Tables will be created while the invoke job is executed
+![img_3.png](img_3.png)
+
+10) SELECT
+    t.name AS TableName,
+    p.create_date AS CreationDate,
+    p.modify_date AS LastModifiedDate
+    FROM
+    sys.tables t
+    JOIN
+    sys.objects p ON t.object_id = p.object_id
+    ORDER BY
+    t.name;
+
+![img_4.png](img_4.png)

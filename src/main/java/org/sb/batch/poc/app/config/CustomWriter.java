@@ -5,16 +5,13 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import org.sb.batch.poc.app.model.ChunkData;
 import org.sb.batch.poc.app.model.CustomerRdbms;
 import org.sb.batch.poc.app.repository.CustomerRdbmsRepository;
-import org.springframework.batch.item.Chunk;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collectors;
 
 public class CustomWriter implements ItemWriter<CustomerRdbms> {
 	@Autowired
@@ -25,14 +22,14 @@ public class CustomWriter implements ItemWriter<CustomerRdbms> {
 
 
 	@Override
-	public void write(Chunk<? extends CustomerRdbms> chunkItems) throws Exception {
+	public void write(List<? extends CustomerRdbms> chunkItems) throws Exception {
 		int chunkId = chunkCounter.getAndIncrement();
 		// Create a JSON file for each chunk
 		File jsonFile = new File("src/main/resources/out/customers_chunk_" + chunkId + ".json");
 
 		// Wrap data with chunkId
 		ChunkData chunkData = new ChunkData(chunkId,
-                new ArrayList<>(chunkItems.getItems()));
+                new ArrayList<>(chunkItems));
 
 		// Sort items by customerId
 //		List<CustomerRdbms> sortedCustomers = chunkItems.getItems().stream()
